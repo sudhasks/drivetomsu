@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">drivetomsu</string>
+    <string name="Universityaddress">
+        <b> Montclair State University  </b>\n\t\t
+        Address:\n\t\t
+        <b>1 Normal Avenue, \n\t\t
+        Montclair, \n\t\t
+        NJ, USA 07043,  \n\t\t
+        Phone: 973-655-4000.</b>\n\n
+
+    </string>
+</resources>
